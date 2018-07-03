@@ -8,6 +8,7 @@ public class FileTester2 {
 
             //        fin.close();
               }catch(Exception e){System.out.println(e);}
+        System.out.println("hello");
             //   }
 //}
         }
